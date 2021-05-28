@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in data scien & program evaluation in the climate movement at [The Climate Reality Project](https://github.com/climatereality). 
+- 🔭 I’m currently working in data science & program evaluation in the climate movement at [The Climate Reality Project](https://github.com/climatereality). 
 - 🌱 and I’m currently thinking and learning about complexity, climate and ecology, the carceral system, public use of data, and more.
